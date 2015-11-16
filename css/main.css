@@ -6,6 +6,10 @@ body {
     margin-bottom: 2em;
 }
 
+h1 img {
+    height: 50px;
+}
+
 .color {
     height: 15px;
     border-top: 5px solid #7FA15D;
